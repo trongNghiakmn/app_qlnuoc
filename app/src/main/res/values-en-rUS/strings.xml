@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_dssp">List of Products</string>
+    <string name="title_dsnsx">List of Manufacturer</string>
+    <string name="title_them">Add</string>
+    <string name="title_mansx">Id Manufacturer</string>
+    <string name="title_tennsx">Name Manufacturer</string>
+    <string name="title_masp">Products Id</string>
+    <string name="title_tensp">Products Name</string>
+    <string name="title_giasp">Products Price</string>
+    <string name="title_loai">Products Type</string>
+    <string name="title_xuatxua">Origin</string>
+    <string name="title_nsx">Manufacturer</string>
+    <string name="title_hinhsp">Image</string>
+    <string name="title_luu">Save</string>
+    <string name="title_dangnhap">Log In</string>
+    <string name="title_chitietNSX">Manufacturer Details</string>
+    <string name="title_xacnhanxoa">Do You Agree To Delete?</string>
+</resources>

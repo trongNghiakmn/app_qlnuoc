@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/NguyenTrongNghia_DH51904075-gk/app/src/main/res/layout/item_recycalview.xml" value="0.2" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/drawable-v24/background_body.xml" value="0.1785" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/drawable-v24/background_btn_dk.xml" value="0.1785" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/drawable-v24/background_btn_social.xml" value="0.1785" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/drawable-v24/background_item_recucalview.xml" value="0.1785" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/drawable/background_gd.xml" value="0.1785" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/drawable/background_giaodien.xml" value="0.1785" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/layout/activity_about.xml" value="0.2" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/layout/activity_chi_tiet_sp.xml" value="0.2" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/layout/activity_chitiet_nsx.xml" value="0.19635416666666666" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/layout/activity_danh_nhap.xml" value="0.2" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/layout/activity_dsnsx.xml" value="0.2" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/layout/activity_dssp.xml" value="0.1859375" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/layout/activity_main.xml" value="0.1859375" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/layout/activity_them_sp.xml" value="0.2" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/layout/dialogxoa.xml" value="0.2" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/layout/item_rcv_nsx.xml" value="0.2" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/layout/item_recycalview.xml" value="0.19895833333333332" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/menu/menu_chinh.xml" value="0.2" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/menu/menu_item_recyc.xml" value="0.2" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/doan_gk2/app/src/main/res/menu/menu_nsx.xml" value="0.2" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/quanly_nuocngot_java/app/src/main/res/drawable-v24/background_btn_dk.xml" value="0.1865" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/quanly_nuocngot_java/app/src/main/res/drawable/background_gd.xml" value="0.1865" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/quanly_nuocngot_java/app/src/main/res/layout/activity_danh_nhap.xml" value="0.2" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/quanly_nuocngot_java/app/src/main/res/layout/activity_dssp.xml" value="0.2" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/quanly_nuocngot_java/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/nghia/nam4_hk1/lap_trinh_ung_dung/quanly_nuocngot_java/app/src/main/res/layout/item_recycalview.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

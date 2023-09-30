@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_dssp">Danh Sach San Pham</string>
+    <string name="title_dsnsx">Danh Sach Nha San Xuat</string>
+    <string name="title_them">Them</string>
+    <string name="title_mansx">Ma NSX</string>
+    <string name="title_tennsx">Ten NSX</string>
+    <string name="title_masp">Ma San Pham</string>
+    <string name="title_tensp">Ten San Pham</string>
+    <string name="title_giasp">Gia San Pham</string>
+    <string name="title_loai">Loai San Pham</string>
+    <string name="title_xuatxua">Xuat Xu</string>
+    <string name="title_nsx">Nha San Xuat</string>
+    <string name="title_hinhsp">Hinh</string>
+    <string name="title_luu">Luu</string>
+    <string name="title_dangnhap">Dang Nhap</string>
+    <string name="title_chitietNSX">Chi Tiet Nha San Xuat</string>
+    <string name="title_xacnhanxoa">Ban Dong Y Xoa Hay Khong</string>
+
+
+</resources>
